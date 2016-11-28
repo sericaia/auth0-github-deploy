@@ -34,6 +34,7 @@
     "auth0": "^2.4.0",
     "auth0-extension-express-tools": "^0.6.0",
     "auth0-extension-tools": "^0.14.0",
+    "auth0-extension-ui": "git+https://github.com/auth0-extensions/auth0-extension-ui#next",
     "auth0-oauth2-express": "^1.1.8",
     "auth0-source-control-extension-tools": "^2.0.0",
     "axios": "^0.15.0",
